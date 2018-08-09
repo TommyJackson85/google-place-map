@@ -26,7 +26,7 @@
     "google-maps-react": "^2.0.2",
     "google-react-maps": "^1.2.26",
     "googlemaps": "^1.12.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.10",
     "markerclustererplus": "^2.1.4",
     "node-geocoder": "^3.22.0",
     "prop-types": "^15.6.1",
